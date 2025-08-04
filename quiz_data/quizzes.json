@@ -1626,6 +1626,14 @@
             "Who is the Leader of the Scurvy Dogs?",
             "Captain Dan"
         ],
+         [
+            "What does the Frogfather ask you to steal from The Presidio?",
+            "Spices"
+        ],
+        [
+            "What gang does the Magnificent Seven fight in Tumbleweed Skyway? ",
+            "The Wild Bunch "
+        ],
         [
             "What is the name of the Musketeer Trainer?",
             "Ol' Fish Eye"
@@ -1637,6 +1645,10 @@
         [
             "Who is the leader of the Red Claw Gang?",
             "Buster Crab"
+        ],
+        [
+            "Who is the owner of the Black Spot?",
+            "One Eyed Jack"
         ],
         [
             "What color Windstone does the Stormgate to Monquista require?",
@@ -1664,7 +1676,11 @@
         ],
         [
             "What gang does the Magnificent Seven fight in Tumbleweed Skyway?",
-            "The WIld Bunch"
+            "Skinny Pete"
+        ],
+         [
+            "Who is the bartender of the Kraken Skulls Tavern?",
+            "The Wild Bunch"
         ],
         [
             "General Tso's favorite pet is?",
